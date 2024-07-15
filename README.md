@@ -24,11 +24,3 @@ A comprehensive web application for managing a library's book inventory and hand
 - **Authentication**:
   - Okta: Identity and access management.
   
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone Repository**:
-   ```bash
-   git clone https://github.com/your-username/library-management-system.git
-   cd library-management-system
