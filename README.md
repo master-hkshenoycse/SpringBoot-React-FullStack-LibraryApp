@@ -4,7 +4,7 @@ A comprehensive web application for managing a library's book inventory and hand
 
 ## Features
 
-- **Book Management**: CRUD operations for adding, updating, and deleting books.
+- **Book Management**: CRUD operations for adding, updating, and deleting books and book reviews by users.
 - **User Management**: Authentication and authorization using Okta and Spring Security.
 - **Late Book Returns**: Integration with Stripe API for handling payments related to late book returns.
 - **Admin Panel**: Special administrative interface for managing the library's book catalogue.
